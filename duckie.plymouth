@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Duckie
+Description=A cute duckie animation theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/duckie
+ScriptFile=/usr/share/plymouth/themes/duckie/duckie.script
