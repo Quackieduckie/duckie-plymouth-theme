@@ -2,8 +2,7 @@
 
 A cute animated duck theme for Plymouth boot splash screen and LUKS password entry.
 
-![Version](https://img.shields.io/badge/version-1.2-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+Version: 1.2 | License: MIT
 
 ## Preview
 
@@ -16,11 +15,11 @@ This theme features an adorable animated duck that plays during boot and when en
 
 ## Features
 
-- ✨ Smooth 21-frame duck animation
-- 🖤 Minimalist black background
-- 🔒 Perfect for LUKS encrypted systems
-- 🚀 Lightweight and fast
-- 📦 Easy to install
+- Smooth 21-frame duck animation
+- Minimalist black background
+- Perfect for LUKS encrypted systems
+- Lightweight and fast
+- Easy to install
 
 ## Installation
 
@@ -212,4 +211,4 @@ If you encounter issues:
 
 ---
 
-**Enjoy your cute duckie boot screen!** 🦆
+**Enjoy your cute duckie boot screen!**
